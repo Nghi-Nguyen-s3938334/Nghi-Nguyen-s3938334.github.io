@@ -10,5 +10,3 @@ Reference:
 
 Nguyen, T 2021, ‘Library resources & services Research skills’, lecture notes, NONE4763, RMIT University, viewed 26 April 2022, 
 <https://rmit.instrucutre.com/courses/101192/pages/t2-learning-materials?module_item_id=3903775>
-
-

@@ -2,14 +2,14 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+I am a student of RMIT, studying NONE4763, my code is s3938334
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[s3938334@rmit.edu.vn](mailto:s3938334@rmit.edu.vn)

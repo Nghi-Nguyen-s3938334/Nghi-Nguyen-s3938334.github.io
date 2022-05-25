@@ -10,4 +10,4 @@ The lesson started by an introduction into computational thinking, which is coll
 
 Reference:
 
-Farell, P 2021, ‘Computational Thinking’, lecture notes, NONE4763, RMIT University, viewed 20 May 2022, https://rmit.instructure.com/courses/101192/pages/t8-learning-materials?module_item_id=3903827
+Crellin, J 2021, ‘Computational Thinking’, lecture notes, NONE4763, RMIT University, viewed 20 May 2022, https://rmit.instructure.com/courses/101192/pages/t8-learning-materials?module_item_id=3903827
